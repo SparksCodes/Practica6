@@ -25,13 +25,6 @@
     {
         return $a - $b;
     }
-    
-    //PHP inicial con la operación dividir
-    function dividir($a, $b)
-    {
-        return $a / $b;
-    }
-    ?>
     ?>
 
 </body>
