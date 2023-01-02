@@ -19,6 +19,12 @@
     {
         return $a + $b;
     }
+    
+    //PHP inicial con la operación resta
+    function resta($a, $b)
+    {
+        return $a - $b;
+    }
     ?>
 
 </body>
